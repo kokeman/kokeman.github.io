@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = './themes/pelican-themes/Flex'
+THEME = './Flex'
 # THEME = './themes/pelican-themes/attila'
 
 AUTHOR = 'kokeman'

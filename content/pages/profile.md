@@ -16,7 +16,7 @@ save_as: index.html
 
 # Resarch
 * 自然言語処理
-* 機械翻訳（ニューラル）
+* ニューラル機械翻訳
 
 # Publication
 * 2018.08.27 - 2018.08.29 NLP若手の会　第13回シンポジウム(YANS)
